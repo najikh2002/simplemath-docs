@@ -1,0 +1,22 @@
+site_name: SimpleMath
+site_description: Simple Math is simple pacage for python.
+site_author: Hizbullah Najihan
+
+nav:
+  - Home: index.md
+  - Docs: 
+    - add: add.md
+    - substract: substract.md
+    - multiply: multiply.md
+    - divide: divide.md
+
+theme: 
+  name: material
+
+markdown_extensions:
+  - tables
+
+plugins: 
+  - mkdocstrings
+
+

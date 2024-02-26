@@ -1,0 +1,7 @@
+setuptools
+twine
+wheel
+pytest
+mkdocs
+mkdocstrings-python
+mkdocs-material
